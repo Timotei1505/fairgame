@@ -1,0 +1,83 @@
+{
+  "asin_groups":8,
+  "asin_list_1": [
+    "B08LNY8P5L" ,
+    "B08QZP2RRS" ,
+    "B08KHL21CV" ,
+    "B08LF1CWT2" ,
+    "B08L6PCZTR" ,
+    "B08L3Q41SM"
+],
+  "reserve_min_1": 300,
+  "reserve_max_1": 900,
+
+  "asin_list_2": [
+    "B08LTKLG5K" ,
+    "B08HLZXHZY" 
+],
+  "reserve_min_2": 300,
+  "reserve_max_2": 950,
+
+  "asin_list_3":
+     ["B07VN91YN5" ,          
+      "B07V5HFNFY" ,
+	 "B07KFRJTYH" ,
+	 "B07VDMGYGZ"],
+  "reserve_min_3":300,
+  "reserve_max_3":650,
+
+"asin_list_4": 
+        ["B08HR6ZBYJ" , 		
+        "B08HLYQ9XL" ,
+        "B08HM6D7TM" ,
+        "B08LTJVGYS" ,
+        "B08N7V679F" ,
+        "B08KH7R4FQ" ,
+        "B08HN642LY" ,
+        "B08HRBW6VB" ,
+        "B08KHJS572" ,
+        "B08HBQWBHH" ,
+        "B08J5F3G18"],
+   "reserve_min_4": 500,
+   "reserve_max_4": 1500,
+
+ "asin_list_5":
+	["B08KHL21CV" ,
+	 "B08P37HYZM" ,
+	 "B08LNPPCWJ" ,
+	 "B08L3QCZKZ" ,
+	 "B08LQ4XF6Z"],
+  "reserve_min_5": 300,
+  "reserve_max_5": 950,
+
+ "asin_list_6":
+	 ["B08LNPPCWJ" ,
+	  "B08KHL21CV" ,
+	  "B08LNY8P5L" ,
+	  "B08KHHF881" ,
+	  "B08P37HYZM"],
+  "reserve_min_6": 300,
+  "reserve_max_6": 950,
+
+ "asin_list_7":
+	["B08LNY8P5L" ,
+	 "B08KY266MG" ,
+	 "B08P37HYZM" ,
+	 "B08KHHF881" ,
+	 "B08LLG9KQT"],
+  "reserve_min_7": 300,
+  "reserve_max_7": 950,
+
+"asin_list_8":
+	["B08LNPPCWJ" ,
+	 "B08KHHF881" ,
+	 "B08KY266MG" ,
+	 "B08LQ4XF6Z"],
+"reserve_min_8": 300,
+"reserve_max_8": 950,
+
+  "amazon_website": "smile.amazon.co.uk"
+}
+
+
+
